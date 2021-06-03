@@ -1,2 +1,2 @@
-# tw-academy-s9
+# Sample Style Guide
 Homework for the TW Academy
